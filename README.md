@@ -31,7 +31,7 @@ Follow the steps below to set up and run Owly on your system.
 1. **Clone the Repository**:
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/dannyk_739/Owly.git
+   git clone https://github.com/Danyalkhattak/Owly.git
    cd Owly
    ```
 
